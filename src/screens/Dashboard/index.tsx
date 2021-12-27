@@ -33,7 +33,7 @@ export function Dashboard() {
   }
 
   function handleRepositoryPageNavigation(id: number) {
-    navigate(RepositoriesList, { repositoryId: id });
+    navigate("Repository", { repositoryId: id });
   }
 
   function handleChangeInput(value: string) {
