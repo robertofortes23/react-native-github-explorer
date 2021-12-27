@@ -1,6 +1,6 @@
 # GitHub Explorer - Informações de repositórios públicos
 
-<p align="center"><img style="width: 200px"  src="https://i.imgur.com/SXxi4x8.png" />
+<p align="center"><img style="width: 200px"  src="https://i.imgur.com/3vkyBc1.png" />
 
 </p>
 
@@ -12,7 +12,7 @@
 
 ## Home
 
-<img style="width: 200px" align=center src="https://i.imgur.com/uM7DaS8.jpg" />
+<img style="width: 200px" align=center src="https://i.imgur.com/Qb3pn4Q.jpg" />
 <br>
 
 ## Repositório
