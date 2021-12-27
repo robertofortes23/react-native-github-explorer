@@ -17,7 +17,7 @@
 
 ## Repositório
 
-<img style="width: 200px" align=center src="https://i.imgur.com/Qb3pn4Q.jpg" />
+<img style="width: 200px" align=center src="https://i.imgur.com/FekggMO.jpg" />
 <br>
 
 ## Tecnologias usadas
